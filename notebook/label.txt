@@ -1,0 +1,8 @@
+airplane
+alarm_clock
+apple
+basketball
+bat
+bathtub
+book
+cycle
